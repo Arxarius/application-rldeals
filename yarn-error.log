@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\arxar\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-bootstrap
+
+PATH: 
+  C:\Users\arxar\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\arxar\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\PuTTY;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\arxar\AppData\Local\Microsoft\WindowsApps;C:\Users\arxar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\arxar\AppData\Local\GitHubDesktop\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files (x86)\php-7.2.16;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Ruby25-x64\bin;C:\Users\arxar\AppData\Local\Microsoft\WindowsApps;C:\Users\arxar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\arxar\AppData\Local\GitHubDesktop\bin;C:\Users\arxar\AppData\Roaming\Composer\vendor\bin;C:\Users\arxar\AppData\Roaming\npm;C:\Program Files\JetBrains\WebStorm 2019.1.2\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Client network socket disconnected before secure TLS connection was established
+      at TLSSocket.onConnectEnd (_tls_wrap.js:1088:19)
+      at Object.onceWrapper (events.js:277:13)
+      at TLSSocket.emit (events.js:194:15)
+      at endReadableNT (_stream_readable.js:1125:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
